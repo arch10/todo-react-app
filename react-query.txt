@@ -1,0 +1,2 @@
+1. call todos api: GET https://dummyjson.com/todos
+2. add new todo and update the query state: POST https://dummyjson.com/todos/add

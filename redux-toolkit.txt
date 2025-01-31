@@ -1,0 +1,2 @@
+1. get all the todos from server and store it in redux state: GET https://dummyjson.com/todos
+2. add new todo and update the redux state: POST https://dummyjson.com/todos/add
